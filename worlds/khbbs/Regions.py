@@ -580,7 +580,7 @@ def create_regions(multiworld: MultiWorld, player: int, options):
         regions["Enchanted Dominion"].locations.append("(V) Enchanted Dominion Forest Clearing Map Chest")
         regions["Enchanted Dominion"].locations.append("(V) Enchanted Dominion Audience Chamber Hi-Potion Chest")
         regions["Enchanted Dominion"].locations.append("(V) Enchanted Dominion Hall Magnet Chest")
-        regions["Enchanted Dominion"].locations.append("(V) Enchanted Dominion Audience Chamber Thunderstorm Chest")
+        regions["Enchanted Dominion"].locations.append("(V) Enchanted Dominion Audience Chamber Thunder Chest")
         regions["Enchanted Dominion"].locations.append("(V) Enchanted Dominion Hallway Hi-Potion Chest")
         regions["Enchanted Dominion"].locations.append("(V) Enchanted Dominion Tower Room Sleep Chest")
         regions["Enchanted Dominion"].locations.append("(V) Enchanted Dominion Hall Hi-Potion Chest")
