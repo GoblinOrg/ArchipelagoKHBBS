@@ -35,8 +35,8 @@ class KHBBSWeb(WebWorld):
 
 class KHBBSWorld(World):
     """
-    Kingdom Hearts is an action RPG following Sora on his journey 
-    through many worlds to find Riku and Kairi.
+    Kingdom Hearts Birth by Sleep is an action RPG following three friends, 
+    Terra, Ventus, and Aqua on a journey through many worlds to defeat Xehanort.
     """
     game = "Kingdom Hearts Birth by Sleep"
     options_dataclass = KHBBSOptions
