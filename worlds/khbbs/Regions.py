@@ -459,7 +459,7 @@ def create_regions(multiworld: MultiWorld, player: int, options):
        #regions["Radiant Garden"].locations.append("(A) Radiant Garden Examine Pooh's Story Book Hunny Pot Board")
         regions["Radiant Garden"].locations.append("(A) Radiant Garden Defeat Vanitas Deck Capacity Increase")
         if options.final_terra_xehanort_ii:
-            regions["The Land of Departure"].locations.append("(A) The Land of Departure World Sealed Brightcrest")
+            regions["Radiant Garden"].locations.append("(A) The Land of Departure World Sealed Brightcrest")
             regions["Radiant Garden"].locations.append("(A) Radiant Garden Defeat Final Terra-Xehanort II")
         if options.realm_of_darkness:
             regions["Realm of Darkness"].locations.append("(A) Realm of Darkness Enter World Map")
